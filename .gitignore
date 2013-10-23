@@ -1,0 +1,9 @@
+*.suo
+*.sdf
+*.lib
+*.a
+*.dll
+*.pdb
+*.exe
+SOILd/Debug/
+SOILd/Release/
