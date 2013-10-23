@@ -1,4 +1,4 @@
 SOILd
 =====
 
-D wrappers for the SOIL C library
+D Wrappers for the SOIL C library (http://www.lonesock.net/soil.html)
