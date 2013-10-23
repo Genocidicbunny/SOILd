@@ -189,6 +189,6 @@
   <filesToClean>*.obj;*.cmd;*.build;*.json;*.dep</filesToClean>
  </Config>
  <Folder name="SOILd">
-  <File path="lib.d" />
+  <File path="soild.d" />
  </Folder>
 </DProject>
